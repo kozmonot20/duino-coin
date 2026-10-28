@@ -5,7 +5,7 @@ import sys
 import multiprocessing
 
 # === KULLANICI AYARLARI ===
-CUZDAN_ADIN = "Senin_Cuzdan_Adin"  # Buraya Duino-Coin kullanıcı adını yazacaksın kanka
+CUZDAN_ADIN = "kozmonot20"  # Buraya Duino-Coin kullanıcı adını yazacaksın kanka
 CEKIRDEK_SAYISI = 4               # Telefonun 8 çekirdeğinden sadece 4'ünü kullanıyoruz (%50 yük)
 DINLENME_SURESI = 2.0             # Her başarılı kazımdan sonra işlemci 2 saniye tamamen uyuyacak (soğuyacak)
 MINER_ISMI = "Discovery2"         # Havuzda görünecek cihaz adın
